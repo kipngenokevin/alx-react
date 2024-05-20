@@ -9,7 +9,7 @@
     "build": "webpack"
   },
   "keywords": [],
-  "author": "",
+  "author": "kipngeno kevin",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^5.91.0",
