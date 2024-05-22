@@ -35,11 +35,9 @@ body {
   }
   .App-body p, input, button, label {
 	margin: 1rem;
-  }
-
-  .App-body input, button {
 	height: min-content;
   }
+
 
 .App-link {
   color: #61dafb;
