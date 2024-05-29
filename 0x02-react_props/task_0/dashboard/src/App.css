@@ -18,21 +18,7 @@ body {
 
 
 
-.App-body {
-	display: flex;
-	align-items: initial;
-	justify-content: initial;
-	color: black;
-	border-bottom: 2px solid red;
-	min-height: 40vh;
-  }
-  .App-body p {
-	margin: 1rem;
-  }
 
-.App-link {
-  color: #61dafb;
-}
 
 
 
