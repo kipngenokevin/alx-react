@@ -16,14 +16,7 @@ body {
   }
 }
 
-.App-header {
-  display: flex;
-  align-items: center;
-  justify-content: initial;
-  font-size: calc(10px + 2vmin);
-  color: #E0354C;
-  border-bottom: 2px solid #E0354C;
-}
+
 
 .App-body {
 	display: flex;
@@ -41,10 +34,7 @@ body {
   color: #61dafb;
 }
 
-.App-footer {
-	text-align: center;
-	font-style: italic;
-}
+
 
 @keyframes App-logo-spin {
   from {
