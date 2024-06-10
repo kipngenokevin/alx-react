@@ -1,0 +1,12 @@
+.Notifications {
+	border: 1px solid green;
+	padding: 1em;
+}
+
+[data-notification-type="default"] {
+	color: blue;
+}
+
+[data-notification-type="urgent"] {
+	color: red;
+}
